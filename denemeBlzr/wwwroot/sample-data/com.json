@@ -1,0 +1,40 @@
+﻿[
+  [
+    {
+      "Id": 1,
+      "Durum": true,
+      "StokKodu": "STK001",
+      "StokAdi": "Ürün A",
+      "Birimi": "Adet",
+      "Modeli": "Model X",
+      "StokGrubu": "Grup 1",
+      "Marka": "Marka A",
+      "AlisKdv": 18,
+      "SatisKdv": 18,
+      "AlisFiyati1": 100.00,
+      "AlisFiyati2": 95.00,
+      "AlisFiyati3": 90.00,
+      "SatisFiyati1": 150.00,
+      "SatisFiyati2": 145.00,
+      "SatisFiyati3": 140.00,
+      "Aciklama": "Açıklama A"
+    },
+    {
+      "Id": 2,
+      "Durum": false,
+      "StokKodu": "STK002",
+      "StokAdi": "Ürün B",
+      "Birimi": "Adet",
+      "Modeli": "Model Y",
+      "StokGrubu": "Grup 2",
+      "Marka": "Marka B",
+      "AlisKdv": 18,
+      "SatisKdv": 18,
+      "AlisFiyati1": 200.00,
+      "AlisFiyati2": 190.00,
+      "AlisFiyati3": 180.00,
+      "SatisFiyati1": 300.00,
+      "SatisFiyati2": 290.00,
+      "Sat
+
+  ]
